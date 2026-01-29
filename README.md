@@ -1,4 +1,5 @@
-#Lab 1 (21/01/2026)
+#Lab 1 
+
 
 activities:    
 -install py opengl   
